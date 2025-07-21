@@ -89,7 +89,7 @@ const Login = () => {
 
           <Alert severity="info" sx={{ mb: 3 }}>
             <Typography variant="body2">
-              <strong>Demo Mode:</strong> Use any email and password to login
+              <strong>Demo Mode:</strong> Use <b>demo@expensetracker.com</b> / <b>demo123</b> to login
             </Typography>
           </Alert>
 
